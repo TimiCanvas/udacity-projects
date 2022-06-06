@@ -1,4 +1,0 @@
-In this analysis I investigated a movie dataset. The data set contains information about a little over 10,000 movies collected from The Movie Database (TMDb), it also includes features such as casts, genre, user ratings, budget and revenue. The last two columns 'budget_adj' and 'revenue_adj' of the associated movies is in terms of the dollars rate in year 2010, while accounting for inflation.
-
-ALso, this folder houses an ipython notebook(.ipynb), a pdf and a html file format of the same project.
-
